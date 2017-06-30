@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Peter Kim\Desktop\QuestionBox Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4625baff3892dfc4b58a090988c557566ad8d3a4">
+        <dex dex="C:\Users\Peter Kim\Desktop\QuestionBox Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bd2f3542be162970343d9ba630b94c696bf0021c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Peter Kim\Desktop\QuestionBox Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Peter Kim\Desktop\QuestionBox Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bbd6560427ef8cd723d8807b6df29d53db0b5c06\classes.dex" />
+    </item>
+
+</items>

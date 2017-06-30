@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Peter Kim\\Desktop\\QuestionBox Project\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\Peter Kim\\Desktop\\QuestionBox Project\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zoe\\Downloads\\EarphoneControl2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\zoe\\Downloads\\EarphoneControl2\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Peter Kim\\Desktop\\EarphoneControl2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\Peter Kim\\Desktop\\EarphoneControl2\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]
